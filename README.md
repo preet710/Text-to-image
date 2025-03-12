@@ -17,7 +17,7 @@ PyTorch (with GPU support recommended for faster generation)
 Additional libraries: Accelerate, PIL (Python Imaging Library)
 Installation
 Clone the repository and install the necessary dependencies:
-git clone https://github.com/yourusername/text-to-image.git
+git clone https://github.com/preet710/Text-to-image
 cd text-to-image
 pip install diffusers transformers accelerate torch
 In the code, you can change the text prompt, adjust the output path, or modify model parameters to better suit your needs.
